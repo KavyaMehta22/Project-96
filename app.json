@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "time-is-precious-final",
+    "slug": "snack-51ccff9a-a3cb-4798-ab1a-2f8f429b7183",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.neeteshmehta.snack51ccff9aa3cb4798ab1a2f8f429b7183"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "App that helps you notice where you have wasted your time and provide some tips for better time management."
+  }
+}
